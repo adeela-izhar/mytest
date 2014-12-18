@@ -2,12 +2,12 @@
 ========
 ##markdown
 list  
-1 second year
+1. second year
   - maseera  
   - adeela  
   - aakash  
-2 third year  
+2. third year  
   - sarah  
   - farheen  
   - shivam  
-3 no one else
+3. no one else
