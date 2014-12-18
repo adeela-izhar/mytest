@@ -1,7 +1,7 @@
 #Mytest
 ======
 ###I am just learning github
-*My name is* **Maseera Ali**\n
+*My name is* **Maseera Ali**...
 Steps you must know-
 1. git clone <link>
 2. cd <foldername>
