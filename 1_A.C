@@ -1,3 +1,4 @@
+//puting it on github
 //to calculate gross salary
 #include<stdio.h>
 #include<conio.h>
