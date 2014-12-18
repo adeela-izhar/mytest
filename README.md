@@ -1,11 +1,11 @@
 #Mytest
 ======
 ###I am just learning github
-*My name is* **Maseera Ali**...
-Steps you must know-
-1. git clone <link>
-2. cd <foldername>
-        * git init
+*My name is* **Maseera Ali**  
+Steps you must know-  
+1. git clone <link>  
+2. cd <foldername>  
+        * git init    
         * git add <filename>
         * git commit
         * git push -u origin master
