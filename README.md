@@ -1,6 +1,6 @@
 #Mytest
-======
-###I am just learning github
+=======
+##I am just learning github
 *My name is* **Maseera Ali**  
 Steps you must know-  
 1. git clone <link>  
