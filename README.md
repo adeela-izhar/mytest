@@ -1,4 +1,4 @@
 mytest
 ======
-#i am just learning
-*my name is***maseera**
+##i am just learning
+*my name is* **maseera**
