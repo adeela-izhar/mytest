@@ -1,13 +1,13 @@
 #testing
 ========
 ##markdown
-list 
+list  
 1. second year
-  - maseera
-  - adeela 
-  - aakash 
+- maseera
+- adeela 
+- aakash 
 2. third year 
-  - sarah 
-  - farheen 
-  - shivam 
+- sarah 
+- farheen 
+- shivam 
 3. no one else
