@@ -5,7 +5,7 @@
 void main()
 { int basic_sal;
 float gross_sal,a1,a2;
-clrscr();
+clrscr(); //use conio for this
  printf("Enter basic salary");
  scanf("%d",&basic_sal);
  a1=(4*basic_sal)/10;
