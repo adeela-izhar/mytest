@@ -13,4 +13,4 @@ clrscr();
  gross_sal=basic_sal-a1-a2;
  printf("%f",gross_sal);
  getch();
- } //closing braces of main :p
+ }
